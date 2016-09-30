@@ -5,13 +5,13 @@ README to gitTool
 
 Fase 1: 
 
-Criação do arquivo index.php
+Criação do arquivo index.php - 
 
 Commit index.php
 
 Fase 2:
 
-Incluindo arquivos basicos do sistema
+Incluindo arquivos basicos do sistema - 
 
 Commit config.php, .htaccess
 
