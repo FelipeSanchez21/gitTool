@@ -1,34 +1,7 @@
-# gitTool
 
-README to gitTool
-
-<<<<<<< HEAD
-
-Fase 1: 
-
-Criação do arquivo index.php - 
-
-Commit index.php
-
-Fase 2:
-
-Incluindo arquivos basicos do sistema - 
-
-Commit config.php, .htaccess
-
-Fase 3:
-
-Criando arquivo .gitignore
-
-Fase 4:
-
-Ocultando config.php
-
-Fase 5:
 
 Criando README
-=======
-Fase 1: 
+=======Fase 1: 
 CriaÃ§Ã£o do arquivo index.php -
 Commit index.php
 
