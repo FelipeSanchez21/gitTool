@@ -1,0 +1,8 @@
+Arquivo de configuração local
+
+Propriedades:
+
+1: xxxyyy
+2: xyxxxx
+3: yxyxxx
+4: xxyyyy
